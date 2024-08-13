@@ -10,7 +10,7 @@ app.get('/ecopontos', (req, res) => {
 });
 
 // Iniciar o servidor
-const PORT = process.env.PORT || 80;
+const PORT = process.env.PORT || 3001;
 app.listen(PORT, () => {
     console.log(`Servidor rodando na porta ${PORT}`);
 });
