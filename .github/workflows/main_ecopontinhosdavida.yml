@@ -66,5 +66,5 @@ jobs:
         with:
           app-name: 'EcopontinhosDaVida'
           slot-name: 'Production'
-          package: ./API_Ecopontos
+          package: .
           
